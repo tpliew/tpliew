@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tpliew
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning github and metaverse
+- 🌱 I’m currently learning metaverse and github
 - 📫 How to reach me --- tpliew@gmail.com
 
 <!---
